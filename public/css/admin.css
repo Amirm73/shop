@@ -1,0 +1,53 @@
+.form-control {
+	border-radius: 3px;
+}
+.bootstrap-select:not([class*=col-]):not([class*=form-control]):not(.input-group-btn){
+	width: 100%;
+
+}
+.bootstrap-select.btn-group .dropdown-toggle .filter-option {
+	text-align:right;
+}
+
+button, html input[type=button], input[type=reset], input[type=submit], btn{
+	margin:0 35%;
+	width: 30%;
+	padding:10px;
+}
+.group
+{
+	margin:10% 20%;
+}
+/*
+
+@font-face {
+	font-family: 'yekan';
+	src: url('fonts/Yekan.eot');
+	src: url('fonts/Yekan.eot?#iefix') format("embedded-opentype"),
+		 url('fonts/Yekan.woff') format("woff"),
+		 url('fonts/Yekan.ttf') format("truetype"),
+		 url('fonts/Yekan.svg') format("svg");
+
+}
+
+
+@font-face {
+    font-family: 'BTabassom';
+    src: url('fonts/BTabassom.eot');
+    src: url('fonts/BTabassom.eot?#iefix') format('embedded-opentype'),
+         url('fonts/BTabassom.woff') format('woff'),
+         url('fonts/BTabassom.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'BTitr';
+    src: url('fonts/BTitr.eot');
+    src: url('fonts/BTitr.eot?#iefix') format('embedded-opentype'),
+         url('fonts/BTitr.woff') format('woff'),
+         url('fonts/BTitr.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+*/
